@@ -38,7 +38,7 @@ First, you need to process the raw datasets for SFT and RL, and download the eva
 Run the following command to begin:
 
 ```bash
-# install verl
+# install verl, the git SHA is abb87bc147467589d1357dd80a1e3fefa188e11f
 git clone https://github.com/volcengine/verl.git
 cd verl
 pip install --no-deps -e .
